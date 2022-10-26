@@ -20,7 +20,7 @@
 #include<stdio.h>
 
 
-// Function solution
+// Solution  function
 int MultFact(int iNo)
 {
     int iAns = 1;
